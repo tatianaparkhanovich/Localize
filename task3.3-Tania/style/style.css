@@ -12,6 +12,7 @@ header {
   padding-bottom: 138px;
   background-image: url(../images/fon.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 header p{
   font-weight: 700;
